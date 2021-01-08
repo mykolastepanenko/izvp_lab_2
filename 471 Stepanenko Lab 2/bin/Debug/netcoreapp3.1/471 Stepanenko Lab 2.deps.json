@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "471 Stepanenko Lab 2/1.0.0": {
+        "runtime": {
+          "471 Stepanenko Lab 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "471 Stepanenko Lab 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.exe
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.deps.json
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.runtimeconfig.json
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.dll
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.pdb
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\_471_Stepanenko_Lab_2.Form1.resources
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.AssemblyInfo.cs
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.dll
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.pdb
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.genruntimeconfig.cache
+C:\Users\USER\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.exe
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.deps.json
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.runtimeconfig.json
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.dll
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 2.pdb
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\_471_Stepanenko_Lab_2.Form1.resources
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.dll
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.pdb
+C:\Users\Admin\OneDrive\471\Карлюченко 2 семестр\471 Stepanenko Lab 2\471 Stepanenko Lab 2\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 2.genruntimeconfig.cache
