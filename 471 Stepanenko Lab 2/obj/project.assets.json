@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\471\\Карлюченко 2 семестр\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\471\\Карлюченко 2 семестр\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2.csproj",
       "projectName": "471 Stepanenko Lab 2",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\471\\Карлюченко 2 семестр\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\471\\Карлюченко 2 семестр\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2\\obj\\",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\471\\Карлюченко 2 семестр\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\471\\Карлюченко 2 семестр\\471 Stepanenko Lab 2\\471 Stepanenko Lab 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -36,7 +36,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -48,7 +47,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -67,7 +65,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
